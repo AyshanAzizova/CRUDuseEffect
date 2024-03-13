@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "M&M",
+      "info": "drink"
+    },
+    {
+      "id": "2",
+      "name": "Coca-Cola",
+      "info": "drink"
+    },
+    {
+      "id": "3",
+      "name": "Pringles",
+      "info": "chips"
+    },
+    {
+      "id": "4",
+      "name": "Oreo",
+      "info": "candy"
+    },
+    {
+      "id": "5",
+      "name": "Pepsi",
+      "info": "drink"
+    },
+    {
+      "id": "6",
+      "name": "Lays",
+      "info": "chips"
+    },
+    {
+      "id": "8",
+      "name": "Sprite",
+      "info": "drink"
+    },
+    {
+      "id": "9",
+      "name": "Doritos",
+      "info": "chips"
+    },
+    {
+      "id": "10",
+      "name": "Nutella",
+      "info": "candy"
+    },
+    {
+      "id": "11",
+      "name": "Fanta",
+      "info": "drink"
+    },
+    {
+      "id": "12",
+      "name": "Cheetos",
+      "info": "chips"
+    },
+    {
+      "id": "a44ecf17-d7d8-473d-b4b3-2736290b84f5",
+      "name": "AlpenGold",
+      "info": "chokleyt"
+    }
+  ]
+}
